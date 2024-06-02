@@ -14,5 +14,5 @@ To set path for that virtual environment:	myenv\Scripts\activate
 
 To deactivate that virtual environment:		deactivate
 
-To install flash module version 1.0.3:        pip install flash==1.0.3 
+To install flask module version 2.0 :        pip install flask==2.0 
 
