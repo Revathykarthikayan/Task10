@@ -1,0 +1,16 @@
+To install a pip package:   			pip install requests==2.23.0
+
+To upgrade a pip package:       		pip install --upgrade requests
+
+To list all  package available: 		pip list
+
+To list outdated pacages:			pip list --outdated
+
+To freeze requirements in a text file:		pip install -r requirements.txt
+
+To create virtual environment:			python -m venv myenv
+
+To set path for that virtual environment:	myenv\Scripts\activate
+
+To deactivate that virtual environment:		deactivate
+
